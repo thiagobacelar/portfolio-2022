@@ -30,6 +30,10 @@
       display: none;    
     }
 
+    #projetos .card{
+        width: 22rem !important;
+    }
+
  }
 
 /* Small devices */
